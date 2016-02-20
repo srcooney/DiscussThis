@@ -1,0 +1,89 @@
+.fixedLocationCommentButton {
+    position: fixed;  
+    top: 100; 
+    left: 50; 
+}
+
+.fixedLocationTitleLabel {
+    position: fixed;  
+    top: 80; 
+    right: 320; 
+}
+
+.fixedLocationTitleTextBox {
+    position: fixed;  
+    top: 100; 
+    right: 50; 
+}
+
+.fixedLocationAddPages {
+    position: fixed;  
+    top: 150; 
+    left: 500; 
+}
+
+.fixedLocationErrorButtton {
+    position: fixed;  
+    top: 140; 
+    left: 50; 
+}
+
+.fixedLocationComment {
+    position: fixed;  
+    top: 140; 
+    right: 50; 
+}
+
+.fixedLocationCommentBannerUpvote {
+    position: fixed;  
+    top: 260; 
+    right: 335; 
+}
+
+.fixedLocationCommentBannerDownvote {
+    position: fixed;  
+    top: 290; 
+    right: 335; 
+}
+
+.fixedLocationCommentBannerVotes{
+    position: fixed;  
+    top: 263; 
+    right: 280; 
+}
+
+.fixedLocationCommentBannerComment{
+    position: fixed;  
+    top: 263; 
+    right: 165; 
+}
+
+.fixedLocationCommentBannerDelete {
+    position: fixed;  
+    top: 263; 
+    right: 80; 
+}
+
+.fixedLocationCommentBannerCommentText {
+    position: fixed;  
+    top: 320; 
+    right: 50; 
+}
+
+.fixedLocationCommentConfirm {
+    position: fixed;  
+    top: 270; 
+    right: 50; 
+}
+
+.fixedLocationP {
+    position: fixed;  
+    top: 120; 
+    right: 50; 
+}
+
+.fixedLocationP1 {
+    position: fixed;  
+    top: 120; 
+    left: 100; 
+}

@@ -1,0 +1,30 @@
+application: discussitnowonline
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /css
+  static_dir: css
+- url: /javascript
+  static_dir: javascript
+  
+- url: /img
+  static_dir: img
+- url: /ui
+  static_dir: ui
+- url: /images
+  static_dir: images
+- url: /js
+  static_dir: js
+- url: /json
+  static_dir: json
+  
+  
+- url: /.*
+  script: discussthis.application
+  
+libraries:
+- name: webapp2
+  version: latest
